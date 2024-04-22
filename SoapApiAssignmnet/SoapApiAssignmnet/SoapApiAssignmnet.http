@@ -1,0 +1,6 @@
+@SoapApiAssignmnet_HostAddress = http://localhost:5074
+
+GET {{SoapApiAssignmnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

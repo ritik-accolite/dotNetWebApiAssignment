@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\soapapiassignmnet\\soapapiassignmnet\\controller\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|solutionrelative:soapapiassignmnet\\controller\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\soapapiassignmnet\\soapapiassignmnet\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|solutionrelative:soapapiassignmnet\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\soapapiassignmnet\\soapapiassignmnet\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|solutionrelative:soapapiassignmnet\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\soapapiassignmnet\\soapapiassignmnet\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|solutionrelative:soapapiassignmnet\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\soapapiassignmnet\\soapapiassignmnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|solutionrelative:soapapiassignmnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\soapapiassignmnet\\soapapiassignmnet\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|solutionrelative:soapapiassignmnet\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\soapapiassignmnet\\soapapiassignmnet\\soapapiassignmnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9AE7C12-F122-49C6-8706-FF905F7464A6}|SoapApiAssignmnet\\SoapApiAssignmnet.csproj|solutionrelative:soapapiassignmnet\\soapapiassignmnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\Program.cs",
+              "RelativeDocumentMoniker": "SoapApiAssignmnet\\Program.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\Program.cs",
+              "RelativeToolTip": "SoapApiAssignmnet\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:23:37.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "SoapApiAssignmnet\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\CalculatorService.cs",
+              "RelativeToolTip": "SoapApiAssignmnet\\CalculatorService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:21:48.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "SoapApiAssignmnet\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\ICalculatorService.cs",
+              "RelativeToolTip": "SoapApiAssignmnet\\ICalculatorService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:19:30.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "SoapApiAssignmnet\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\Connected Services\\ServiceReference1\\Reference.cs",
+              "RelativeToolTip": "SoapApiAssignmnet\\Connected Services\\ServiceReference1\\Reference.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:52:48.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\Controller\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "SoapApiAssignmnet\\Controller\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\Controller\\CalculatorController.cs",
+              "RelativeToolTip": "SoapApiAssignmnet\\Controller\\CalculatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:01:02.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\Startup.cs",
+              "RelativeDocumentMoniker": "SoapApiAssignmnet\\Startup.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\Startup.cs",
+              "RelativeToolTip": "SoapApiAssignmnet\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:28:26.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoapApiAssignmnet.csproj",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\SoapApiAssignmnet.csproj",
+              "RelativeDocumentMoniker": "SoapApiAssignmnet\\SoapApiAssignmnet.csproj",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\SoapApiAssignmnet\\SoapApiAssignmnet\\SoapApiAssignmnet.csproj",
+              "RelativeToolTip": "SoapApiAssignmnet\\SoapApiAssignmnet.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T06:59:49.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

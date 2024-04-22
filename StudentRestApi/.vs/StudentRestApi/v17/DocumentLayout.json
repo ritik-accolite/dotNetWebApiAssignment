@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\studentrestapi\\studentrestapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|solutionrelative:studentrestapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\studentrestapi\\studentrestapi\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|solutionrelative:studentrestapi\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\studentrestapi\\studentrestapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|solutionrelative:studentrestapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\studentrestapi\\studentrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|solutionrelative:studentrestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\studentrestapi\\studentrestapi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|solutionrelative:studentrestapi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\studentrestapi\\studentrestapi\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|solutionrelative:studentrestapi\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\studentrestapi\\studentrestapi\\models\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|solutionrelative:studentrestapi\\models\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\studentrestapi\\studentrestapi\\studentrestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|solutionrelative:studentrestapi\\studentrestapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|c:\\users\\ritik.k_7767\\desktop\\assignments\\dot net web\\dotnet webservices assignment (apis)\\studentrestapi\\studentrestapi\\migrations\\20240412082644_initial commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7DBE8C-9559-4292-BE19-1A6A84651C11}|StudentRestApi\\StudentRestApi.csproj|solutionrelative:studentrestapi\\migrations\\20240412082644_initial commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentRestApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentRestApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:06:35.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Models\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentRestApi\\Models\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Models\\StudentRepository.cs",
+              "RelativeToolTip": "StudentRestApi\\Models\\StudentRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:34:13.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Models\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentRestApi\\Models\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Models\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentRestApi\\Models\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:28:16.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240412082644_Initial Commit.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Migrations\\20240412082644_Initial Commit.cs",
+              "RelativeDocumentMoniker": "StudentRestApi\\Migrations\\20240412082644_Initial Commit.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Migrations\\20240412082644_Initial Commit.cs",
+              "RelativeToolTip": "StudentRestApi\\Migrations\\20240412082644_Initial Commit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:26:44.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentRestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Program.cs",
+              "RelativeToolTip": "StudentRestApi\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:06:54.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRestApi.csproj",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\StudentRestApi.csproj",
+              "RelativeDocumentMoniker": "StudentRestApi\\StudentRestApi.csproj",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\StudentRestApi.csproj",
+              "RelativeToolTip": "StudentRestApi\\StudentRestApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T06:46:05.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentRestApi\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "StudentRestApi\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:52:22.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRestApi\\Student.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Student.cs",
+              "RelativeToolTip": "StudentRestApi\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:46:30.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Gender.cs",
+              "RelativeDocumentMoniker": "StudentRestApi\\Gender.cs",
+              "ToolTip": "C:\\Users\\ritik.k_7767\\Desktop\\Assignments\\dot net web\\dotNet WebServices Assignment (APIs)\\StudentRestApi\\StudentRestApi\\Gender.cs",
+              "RelativeToolTip": "StudentRestApi\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:04:49.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
