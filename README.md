@@ -1,9 +1,10 @@
 ![Screenshot (19)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/35720ada-e946-4f66-9edb-ec81069a1118)
 ![Screenshot (18)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/ba1211bb-0fd2-4724-8975-7db2d4fbb607)
+![Screenshot (21)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/3c37f28c-8ec6-4ce7-93e4-de7ad0c82729)
+![Screenshot (20)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/22d1e541-bfaf-4957-9182-e5c995fadedd)
 ![Screenshot (26)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/14f04cd5-73b6-4a31-a721-17cd8a1e91f3)
 ![Screenshot (25)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/0830553b-5477-463e-8c17-2df7f55144d8)
 ![Screenshot (24)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/cbe4beb6-9bfa-49e2-a5a4-7b7d07c550af)
 ![Screenshot (23)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/a05d3559-199f-4a33-be68-46e023d58927)
 ![Screenshot (22)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/8e316dfc-7e0d-4427-aaee-6e33807dc3ca)
-![Screenshot (21)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/3c37f28c-8ec6-4ce7-93e4-de7ad0c82729)
-![Screenshot (20)](https://github.com/ritik-accolite/dotNetWebApiAssignment/assets/162412283/22d1e541-bfaf-4957-9182-e5c995fadedd)
+
